@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thobisho Makutu!</h1>
-<h3 align="center">I am passionate about Data Science and Computer Science</h3>
+<h1 align="center">Hi 👋, I'm Thobisho Makutu!👩‍💻 </h1>
+<h3 align="center">I am passionate about Data Science, Computer Science and Chemistry </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th0bisho&label=Profile%20views&color=0e75b6&style=flat" alt="th0bisho" /> </p>
 
