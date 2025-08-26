@@ -31,8 +31,22 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="50"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="55" height="55"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=th0bisho&show_icons=true&locale=en&layout=compact" alt="th0bisho" /></p>
+<table>
+<tr>
+  <!-- Left: Total contributions + streak -->
+  <td align="left" width="50%" valign="top">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=th0bisho" alt="th0bisho streak and total contributions" height="220">
+  </td>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=th0bisho&show_icons=true&locale=en" alt="th0bisho" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th0bisho&" alt="th0bisho" /></p>
+  <!-- Right: GitHub stats -->
+  <td align="right" width="50%" valign="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=th0bisho&show_icons=true&locale=en" alt="th0bisho GitHub stats" height="220">
+  </td>
+</tr>
+<tr>
+  <!-- Centered: Most Used Languages -->
+  <td colspan="2" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th0bisho&show_icons=true&locale=en&layout=compact" alt="th0bisho top languages">
+  </td>
+</tr>
+</table>
